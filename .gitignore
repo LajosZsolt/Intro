@@ -1,0 +1,8 @@
+# képek feltöltését nem engedélyezzük
+*.jpg
+*.png
+*.gif
+*.svg
+*.jpeg
+*.tiff
+*.raw

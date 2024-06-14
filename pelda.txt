@@ -1,0 +1,1 @@
+Ez egy példa fájl a .gitignore lista gyakorlásához.
